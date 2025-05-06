@@ -24,4 +24,4 @@ A simple and clean Android OCR scanner app built with:
 - Modern UI with **Jetpack Compose**  
 - Clean and scalable architecture for future enhancements  
 
-https://github.com/user-attachments/assets/4f219197-06b8-4719-9bea-6b594f6b7530
+<img src="https://github.com/user-attachments/assets/4f219197-06b8-4719-9bea-6b594f6b7530" alt="OCRTextScan Screenshot" width="300" />
